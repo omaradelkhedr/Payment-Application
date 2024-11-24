@@ -1,0 +1,4 @@
+﻿  app.c
+D:\EgyptFWD\Payment Application\Payment Application\app.c(82,12): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'uint8_t *'
+D:\EgyptFWD\Payment Application\Payment Application\app.c(82,12): message : consider using '%hhd' in the format string
+  Payment Application.vcxproj -> D:\EgyptFWD\Payment Application\x64\Debug\Payment Application.exe
