@@ -110,3 +110,10 @@ The application has been tested for the following user stories:
    ```
 
 ---
+
+### Test Results
+
+You can view screenshots and videos of the tests conducted for this project by clicking the link below:
+
+[View Test Results](https://drive.google.com/drive/folders/1t4OgRdjimGlKcMnyinoF-8RWbrsZoJZB?usp=sharing)
+
